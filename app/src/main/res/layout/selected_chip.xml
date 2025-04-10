@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:id="@+id/selected_chip"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_marginStart="8dp"
+android:background="@drawable/bg_blue_box"
+android:orientation="horizontal"
+android:paddingStart="8dp"
+android:paddingTop="4dp"
+android:paddingEnd="8dp"
+android:paddingBottom="4dp"
+android:visibility="visible"
+android:layout_marginTop="4dp"
+app:layout_constraintBottom_toBottomOf="parent"
+app:layout_constraintStart_toStartOf="parent"
+app:layout_constraintTop_toTopOf="@+id/durationTxtLayout">
+
+<TextView
+    android:id="@+id/txt"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:fontFamily="@font/inter_regular"
+    android:gravity="center_vertical"
+    android:text="choosen experience"
+    android:textColor="@color/white"
+    android:textSize="14sp" />
+
+<ImageView
+    android:id="@+id/cross_btn"
+    android:layout_width="16dp"
+    android:layout_height="16dp"
+    android:layout_gravity="center_vertical"
+    android:layout_marginStart="4dp"
+    android:background="@color/transparent"
+    android:foregroundGravity="center_vertical"
+    android:src="@drawable/icon_cross"
+    app:tint="@color/white" />
+</LinearLayout>

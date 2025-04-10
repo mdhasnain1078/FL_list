@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginBottom="8dp"
+    android:background="@drawable/rectangular_rounded_stroke_bg"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Activily Hiring"
+        android:textColor="@color/n_600"
+        android:fontFamily="@font/inter_medium"
+        android:textSize="12sp"
+        android:layout_gravity="center"
+        android:drawablePadding="6dp"
+        android:gravity="center"
+        android:paddingHorizontal="8dp"
+        android:paddingVertical="4dp"
+
+        app:drawableStartCompat="@drawable/ic_trend" />
+</LinearLayout>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorTheme_blue">#00a5ec</color>
+    <color name="colorTheme_darkBlue">#047CAA</color>
+    <color name="colorTheme_actionBar">#00000000</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="colorTheme_darkGrey">#666666</color>
+    <color name="colorPrimaryDark">#006BC2</color>
+    <color name="grey_jet">#333333</color>
+    <color name="grey_light">#EEEEEE</color>
+    <color name="grey_spanish">#999999</color>
+    <color name="platinum">#E0E0E0</color>
+    <color name="white_ghost">#F8F8F8</color>
+
+    <color name="yellow">#FFAE00</color>
+    <color name="saffron">#F7BB26</color>
+    <color name="gold">#FFCC00</color>
+    <color name="gold_dark">#DC9202</color>
+    <color name="brown_mud">#8A6D3B</color>
+
+    <color name="blue_buttonPressed">#02C</color>
+    <color name="blue_stale">#2D5D75</color>
+    <color name="blue_light">#92CBE2</color>
+
+    <color name="green">#00B050</color>
+    <color name="green_online">#83c500</color>
+    <color name="green_fern">#3C763D</color>
+    <color name="tertiary_mountain_meadow">#00D280</color>
+
+    <color name="red">#DB2A3B</color>
+    <color name="red_invite">#F34F49</color>
+    <color name="red_light">#EA4747</color>
+
+    <!--Colors are sorted till this-->
+    <color name="orange">#FF8C00</color>
+    <color name="orange_01">#FF6701</color>
+    <color name="tertiary_ship_orange_light">#FFA333</color>
+    <color name="pallete_2_orange">#F56753</color>
+    <color name="pallete_4_light_grey">#EEF8FF</color>
+    <color name="buttonBackgroundDisabled">#7BC5E3</color>
+    <color name="edit_Text_background">#f4f4f4</color>
+    <color name="dialog_app_rating_custom_modal_heading">#595959</color>
+    <color name="rating_level_not_available_color">#999999</color>
+
+    <!--Color palettes - design theme-->
+    <color name="intern_blue">#00A5EC</color>
+    <color name="shala_grey">#666666</color>
+    <color name="ship_orange">#FF8C00</color>
+    <color name="ship_orange_light">#FFA333</color>
+
+    <color name="b_50">#EAFCFF</color>
+    <color name="b_100">#BDF3FF</color>
+    <color name="b_200">#8FEAFE</color>
+    <color name="b_300">#4BD8FB</color>
+    <color name="b_400">#1DC1F6</color>
+    <color name="b_500">#00A5EC</color> //same as intern_blue
+    <color name="b_600">#008BDC</color>
+    <color name="b_700">#006BC2</color> // navigation drawers - active text colors
+    <color name="b_800">#00489A</color>
+    <color name="b_900">#002966</color>
+
+    <color name="db_50">#E7F6FF</color>
+    <color name="blue_lightest">#EFF8FA</color> // TODO: Change the name
+    <color name="db_200">#A4D4FC</color>
+    <color name="db_100">#CAE7FF</color>
+
+    <color name="n_50">#F8F8F8</color>
+    <color name="n_100">#EEEEEE</color>
+    <color name="n_100_opacity_80">#CCEEEEEE</color>
+    <color name="n_100_opacity_40">#66000000</color>
+    <color name="n_200">#DDDDDD</color>
+    <color name="n_300">#BBBBBB</color>
+    <color name="n_400">#8A8A8A</color>
+    <color name="n_500">#666666</color> //same as shala_grey
+    <color name="n_600">#484848</color>
+    <color name="n_700">#333333</color> // navigation drawers - inactive text colors
+    <color name="n_800">#212121</color>
+    <color name="n_900">#0A0A0A</color>
+
+    <color name="g_50">#F1FFE5</color> //Old #F3FCEC
+    <color name="g_100">#E2FFCC</color>
+    <color name="g_200">#CBF7B2</color>
+    <color name="g_400">#6EDE43</color>
+    <color name="g_500">#46A823</color>
+    <color name="g_600">#1B990D</color>
+    <color name="g_700">#13800D</color>
+    <color name="g_900">#003300</color>
+
+    <color name="y_50">#FFFAE5</color>
+    <color name="y_200">#FFEA99</color>
+    <color name="y_400">#FFB600</color>
+    <color name="y_500">#DB9600</color>
+    <color name="y_600">#B57314</color>
+    <color name="y_700">#945E12</color> //Old #7A4800
+    <color name="y_900">#422200</color>
+
+    <color name="r_50">#FFF2EB</color>
+    <color name="r_200">#FFC3AE</color>
+    <color name="r_400">#FC2D2D</color>
+    <color name="r_500">#E5330E</color>
+    <color name="r_600">#C21D08</color>
+
+    <color name="o_400">#FFAE00</color>
+    <color name="o_500">#FF8C00</color>
+    <color name="o_600">#FF7A00</color>
+    <color name="premium_orange">#FEB47B</color>
+    <color name="premium_yellow">#FFD907</color>
+
+    <color name="i_50">#E8ECFF</color>
+    <color name="i_500">#4352B5</color>
+
+
+    <color name="db_400">#4383D6</color>
+    <color name="db_500">#1757AA</color>
+
+    <color name="shimmer">#DFEAF2</color>
+
+    <color name="t_500">#0598A8</color>
+
+    <color name="tertiary_ship_orange_dark">#CC7000</color>
+
+    <color name="pallete_9_forest_green">#08BD80</color>
+
+    <color name="alertTextColorBlue">#31708f</color>
+    <color name="alertBackgroundColorBlue">#d9edf7</color>
+    <color name="pallete_6_dodger_blue">#3E67FF</color>
+
+    <color name="mtrl_textinput_default_box_stroke_color"
+        tools:override="true">@color/n_200</color>
+
+    <color name="color_linkedin">#2867B2</color>
+    <color name="java_green">#00C0AB</color>
+    <color name="tertiary">#00C995</color>
+
+    <color name="simpletooltip_background">@color/black</color>
+    <color name="simpletooltip_text">@color/white</color>
+    <color name="simpletooltip_arrow">@color/black</color>
+
+</resources>
